@@ -1,0 +1,4 @@
+# pyenv virtualenv 3.9.16 web-scraping
+autopep8==2.0.1
+lxml==4.9.2
+requests==2.28.2
